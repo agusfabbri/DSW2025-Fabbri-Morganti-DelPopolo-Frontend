@@ -68,8 +68,4 @@ La aplicación estará disponible en tu navegador ingresando a: **[http://localh
 La aplicación se encuentra desplegada y lista para usar en producción:
 
 - **Frontend App (Vercel):** [https://dsw2025-ecommerce-frontend.vercel.app/](https://dsw2025-ecommerce-frontend.vercel.app/)
-- **Backend API (Render):** [https://dsw2025-fabbri-morganti-delpopolo.onrender.com](https://dsw2025-fabbri-morganti-delpopolo.onrender.com)
-
-*(El frontend ya está configurado para consumir esta API).*
-
----
+- **Backend API (Render):** [https://dsw2025-fabbri-morganti-delpopolo-hq0q.onrender.com/](https://dsw2025-fabbri-morganti-delpopolo-hq0q.onrender.com/)
