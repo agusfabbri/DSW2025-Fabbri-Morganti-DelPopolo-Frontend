@@ -37,8 +37,8 @@ Sigue estos pasos para instalar y poner en marcha el proyecto localmente, sin ne
 
 **1. Clonar el repositorio:**
 ```bash
-git clone https://github.com/leangianotto/-DSW2025-Fabbri_Morganti_DelPopolo_Gianotto-Frontend.git
-cd -DSW2025-Fabbri_Morganti_DelPopolo_Gianotto-Frontend
+git clone git clone https://github.com/agusfabbri/DSW2025-Fabbri-Morganti-DelPopolo-Frontend.git
+cd -DSW2025-Fabbri_Morganti_DelPopolo-Frontend
 ```
 
 **2. Instalar dependencias del proyecto:**
