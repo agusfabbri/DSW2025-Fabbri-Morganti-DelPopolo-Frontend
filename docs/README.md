@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=a-KeTVCS7K4
 
 ### Deploy
 - **Deploy Frontend (Vercel):** [https://dsw2025-ecommerce-frontend.vercel.app/](https://dsw2025-ecommerce-frontend.vercel.app/)
-- **Deploy Backend (Render):** [https://dsw2025-fabbri-morganti-delpopolo.onrender.com](https://dsw2025-fabbri-morganti-delpopolo.onrender.com)
+- **Deploy Backend (Render):** [https://dsw2025-fabbri-morganti-delpopolo-hq0q.onrender.com/](https://dsw2025-fabbri-morganti-delpopolo-hq0q.onrender.com/)
