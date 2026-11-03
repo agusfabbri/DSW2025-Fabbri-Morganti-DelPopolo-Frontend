@@ -14,7 +14,7 @@ Las instrucciones para instalar y ejecutar este proyecto sin conocimientos previ
 **[Ver evidencia de ejecución de tests automatizados (Jest)](./tests_evidence.md)**
 
 ### Demo de app en video
-[COMPLETAR CON LINK AL VIDEO DE DEMOSTRACIÓN]
+(https://www.youtube.com/watch?v=a-KeTVCS7K4)
 
 ### Deploy
 - **Deploy Frontend (Vercel):** [https://dsw2025-ecommerce-frontend.vercel.app/](https://dsw2025-ecommerce-frontend.vercel.app/)
